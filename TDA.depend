@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1570751943 source:c:\users\juan sanchez\documents\codeblocks\tda\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Universidad.h"
+	"Archivo.h"
+
+1570759430 source:c:\users\juan sanchez\documents\codeblocks\tda\universidad.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"Universidad.h"
+
+1570759430 c:\users\juan sanchez\documents\codeblocks\tda\universidad.h
+
+1570751029 source:c:\users\juan sanchez\documents\codeblocks\tda\archivo.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"Universidad.h"
+	"Archivo.h"
+
+1570751028 c:\users\juan sanchez\documents\codeblocks\tda\archivo.h
+	<stdio.h>
+	<stdlib.h>
+	"Universidad.h"
+
